@@ -10,4 +10,4 @@ what i edit
 
 -change the icons to panel1
 
--directed the directory to resource folder 
+-directed the directory to resource folder (images file)
