@@ -36,6 +36,8 @@ cart.
 item.
 
 ![Screenshot 2025-02-23 203228](https://github.com/user-attachments/assets/0ad06828-5367-4d3b-b571-8dce1c43d330)
+![Screenshot 2025-02-23 203600](https://github.com/user-attachments/assets/7e245d64-8eca-45ff-a08e-972c741303ff)
+![Screenshot 2025-02-23 203616](https://github.com/user-attachments/assets/8f7c55dd-1124-4d71-b0df-38c9f534acfa)
 
 
 
